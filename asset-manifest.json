@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/lobgor/static/css/main.e8b456c2.chunk.css",
+    "main.js": "/lobgor/static/js/main.4e9ac134.chunk.js",
+    "main.js.map": "/lobgor/static/js/main.4e9ac134.chunk.js.map",
+    "runtime-main.js": "/lobgor/static/js/runtime-main.39152067.js",
+    "runtime-main.js.map": "/lobgor/static/js/runtime-main.39152067.js.map",
+    "static/js/2.fb99cddd.chunk.js": "/lobgor/static/js/2.fb99cddd.chunk.js",
+    "static/js/2.fb99cddd.chunk.js.map": "/lobgor/static/js/2.fb99cddd.chunk.js.map",
+    "static/js/3.e3d34a44.chunk.js": "/lobgor/static/js/3.e3d34a44.chunk.js",
+    "static/js/3.e3d34a44.chunk.js.map": "/lobgor/static/js/3.e3d34a44.chunk.js.map",
+    "index.html": "/lobgor/index.html",
+    "static/css/main.e8b456c2.chunk.css.map": "/lobgor/static/css/main.e8b456c2.chunk.css.map",
+    "static/js/2.fb99cddd.chunk.js.LICENSE.txt": "/lobgor/static/js/2.fb99cddd.chunk.js.LICENSE.txt",
+    "static/media/001.3067d9ad.jpg": "/lobgor/static/media/001.3067d9ad.jpg",
+    "static/media/002.42fc9a36.jpg": "/lobgor/static/media/002.42fc9a36.jpg",
+    "static/media/003.2aea6d1e.jpg": "/lobgor/static/media/003.2aea6d1e.jpg",
+    "static/media/004.4da7b1ec.jpg": "/lobgor/static/media/004.4da7b1ec.jpg",
+    "static/media/005.ac865d30.jpg": "/lobgor/static/media/005.ac865d30.jpg",
+    "static/media/006.d6e3a2fa.jpg": "/lobgor/static/media/006.d6e3a2fa.jpg",
+    "static/media/007.ff7d1a69.jpg": "/lobgor/static/media/007.ff7d1a69.jpg",
+    "static/media/008.a1b3b9c8.jpg": "/lobgor/static/media/008.a1b3b9c8.jpg",
+    "static/media/cert_komag.f7fa8fdf.gif": "/lobgor/static/media/cert_komag.f7fa8fdf.gif",
+    "static/media/header1.8a2d043a.jpg": "/lobgor/static/media/header1.8a2d043a.jpg",
+    "static/media/header2.55997d32.jpg": "/lobgor/static/media/header2.55997d32.jpg",
+    "static/media/header3.c8e0b1a8.jpg": "/lobgor/static/media/header3.c8e0b1a8.jpg",
+    "static/media/header5.e63cc987.jpg": "/lobgor/static/media/header5.e63cc987.jpg",
+    "static/media/img209_ok.558577e7.gif": "/lobgor/static/media/img209_ok.558577e7.gif",
+    "static/media/img210_ok.510f5844.gif": "/lobgor/static/media/img210_ok.510f5844.gif",
+    "static/media/komag2013_1.015429f1.gif": "/lobgor/static/media/komag2013_1.015429f1.gif",
+    "static/media/komag2013_2.3d05d521.gif": "/lobgor/static/media/komag2013_2.3d05d521.gif",
+    "static/media/komag_sia.33751b9d.gif": "/lobgor/static/media/komag_sia.33751b9d.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39152067.js",
+    "static/js/2.fb99cddd.chunk.js",
+    "static/css/main.e8b456c2.chunk.css",
+    "static/js/main.4e9ac134.chunk.js"
+  ]
+}
