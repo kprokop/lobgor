@@ -1,0 +1,55 @@
+.contact form {
+  margin-top: 60px;
+}
+
+.contact textarea {
+  font-size: 16px;
+  width: 90%;
+  min-height: 200px;
+  margin: 20px 0;
+  line-height: 1.5;
+}
+
+.contact button {
+  margin: 0 10% 0 auto;
+  display: block;
+  border: 2px solid #000;
+  background-color: #fff;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 20px;
+  transition: 0.2s;
+}
+
+.contact button:hover {
+  color: #fff;
+  background-color: #000;
+}
+
+.contact p {
+  margin-bottom: 0;
+  font-size: 16px;
+}
+.contact a {
+  text-decoration: none;
+}
+@media (orientation: landscape) and (max-width: 720px) {
+  .contact p {
+    font-size: 14px;
+  }
+}
+@media (orientation: landscape) and (max-width: 667px) {
+  .contact p {
+    font-size: 13px;
+  }
+}
+@media (orientation: landscape) and (max-width: 640px) {
+  .contact p {
+    font-size: 16px;
+  }
+}
+@media (orientation: landscape) and (max-width: 540px) {
+  .contact p {
+    font-size: 14px;
+  }
+}

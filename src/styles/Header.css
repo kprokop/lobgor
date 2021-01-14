@@ -1,0 +1,47 @@
+/* overflow: hidden - ukrywa wszystko co powyzej 30vh bo taką wysokośc ustaliliśmy dla headera */
+
+header {
+  position: relative;
+  overflow: hidden;
+}
+/* ponizej sposób na wyśrodkowanie obrazka w kontenerze */
+header img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 100%;
+  min-height: 100%;
+}
+
+@media (orientation: landscape) and (min-width: 736px) {
+  header img {
+    width: 80%;
+  }
+}
+@media (orientation: landscape) and (min-width: 640px) {
+  header img {
+    width: 70%;
+  }
+}
+@media (orientation: landscape) and (min-width: 533px) {
+  header img {
+    width: 60%;
+  }
+}
+@media (orientation: portrait) and (min-width: 768px) {
+  header {
+    flex-basis: 20vh;
+  }
+  header img {
+    width: 60%;
+  }
+}
+@media (orientation: portrait) and (min-width: 320px) {
+  header {
+    flex-basis: 30vh;
+  }
+  header img {
+    max-width: 50%;
+  }
+}

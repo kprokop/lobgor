@@ -1,0 +1,50 @@
+.certs {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.certs figure {
+  display: inline-block;
+  width: 450px;
+  height: 630px;
+  margin-bottom: 60px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.certs figure figcaption {
+  text-align: center;
+}
+
+.certs figure img {
+  width: 100%;
+  height: 100%;
+  border: 1px solid #444;
+}
+
+@media (orientation: landscape) and (max-width: 736px) {
+  .certs figure {
+    width: 350px;
+    height: 490px;
+  }
+}
+
+@media (orientation: landscape) and (max-width: 640px) {
+  .certs figure {
+    width: 250px;
+    height: 350px;
+  }
+
+  figure figcaption {
+    font-size: 16px;
+  }
+}
+@media (orientation: portrait) and (min-width: 320px) {
+  .certs figure {
+    width: 250px;
+    height: 350px;
+  }
+
+  figure figcaption {
+    font-size: 16px;
+  }
+}
