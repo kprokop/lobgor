@@ -3,6 +3,8 @@
 header {
   position: relative;
   overflow: hidden;
+  max-width: 1440px;
+  /* margin: 0 auto; */
 }
 /* ponizej sposób na wyśrodkowanie obrazka w kontenerze */
 header img {

@@ -26,6 +26,7 @@ handleSubmit =(e)=>{
                 <p>Zakład Mechaniczny Produkcyjno Usługowy Lobgór S.C.</p>
                 <p>38-305 Lipinki 428</p>
                 <p>tel: +48 13 447 74 98</p>
+                <p>kom: +48 501 405 160</p>
                 <p>email:
                 <a href="mailto:lobgor@wp.pl"> lobgor@wp.pl</a>
                 </p>
