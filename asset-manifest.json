@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lobgor/static/css/main.067addf2.chunk.css",
-    "main.js": "/lobgor/static/js/main.201fb48b.chunk.js",
-    "main.js.map": "/lobgor/static/js/main.201fb48b.chunk.js.map",
+    "main.js": "/lobgor/static/js/main.eb69018b.chunk.js",
+    "main.js.map": "/lobgor/static/js/main.eb69018b.chunk.js.map",
     "runtime-main.js": "/lobgor/static/js/runtime-main.39152067.js",
     "runtime-main.js.map": "/lobgor/static/js/runtime-main.39152067.js.map",
     "static/js/2.fb99cddd.chunk.js": "/lobgor/static/js/2.fb99cddd.chunk.js",
@@ -21,7 +21,7 @@
     "static/media/007.ff7d1a69.jpg": "/lobgor/static/media/007.ff7d1a69.jpg",
     "static/media/008.a1b3b9c8.jpg": "/lobgor/static/media/008.a1b3b9c8.jpg",
     "static/media/cert_komag.f7fa8fdf.gif": "/lobgor/static/media/cert_komag.f7fa8fdf.gif",
-    "static/media/header1.f9424464.jpg": "/lobgor/static/media/header1.f9424464.jpg",
+    "static/media/header1.e8e68307.jpg": "/lobgor/static/media/header1.e8e68307.jpg",
     "static/media/header2.55997d32.jpg": "/lobgor/static/media/header2.55997d32.jpg",
     "static/media/header3.c8e0b1a8.jpg": "/lobgor/static/media/header3.c8e0b1a8.jpg",
     "static/media/header4.adc2de45.jpeg": "/lobgor/static/media/header4.adc2de45.jpeg",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.39152067.js",
     "static/js/2.fb99cddd.chunk.js",
     "static/css/main.067addf2.chunk.css",
-    "static/js/main.201fb48b.chunk.js"
+    "static/js/main.eb69018b.chunk.js"
   ]
 }
