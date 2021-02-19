@@ -22,6 +22,11 @@ const offers=[
     title: 'Obróbka mechaniczna',
     text: 'Świadczymy usługi w zakresie obróbki skrawaniem (toczenie, frezowanie, wiercenie) oraz spawania konstrukcji stalowych.'
     },
+    {
+    id: 5,
+    title: 'Produkcja segmentów chodnika górniczego',
+    text: 'W naszej ofercie znajdują się również różnego rodzaju segmenty chodnika górniczego stosowane jako elementy ciągów komunikacyjnych w wyrobiskach górniczych. Wszystkie nasze segmenty posiadają wszystkie niezbędne  atesty i dopuszczenia.'
+    },
 ]
 
 const OfferPage = () => {
