@@ -32,9 +32,9 @@ handleSubmit =(e)=>{
                 </p>
                 
 
-           <form action="">
+           <form action="https://formspree.io/f/mayawnzq" method="POST">
                <h3>Napisz do nas</h3>
-               <textarea value={this.state.value} onChange={this.handleChange} placeholder="wpisz wiadomość"></textarea>
+               <textarea value={this.state.value} onChange={this.handleChange} type="text" name="message" placeholder="wpisz wiadomość"></textarea>
                <button onSubmit={this.handleSubmit}>Wyślij</button>
            </form>
            {/* prompt słuzy do zabezpieczania formularza przed opuszczeniem bez wysłania */}
