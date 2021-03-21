@@ -8,6 +8,9 @@ import gallery5 from '../gallery/005.jpg';
 import gallery6 from '../gallery/006.jpg';
 import gallery7 from '../gallery/007.jpg';
 import gallery8 from '../gallery/008.jpg';
+import gallery9 from '../gallery/009.jpg';
+import gallery10 from '../gallery/010.jpg';
+import gallery11 from '../gallery/011.jpg';
 const GalleryPage = () => {
     return ( 
         <div className="gallery">
@@ -42,6 +45,18 @@ const GalleryPage = () => {
             <figure>
                 <img src={gallery8} alt=""/>
                 <figcaption>Gięcie</figcaption>
+            </figure>
+            <figure>
+                <img src={gallery9} alt=""/>
+                <figcaption>Walcowanie gwintów</figcaption>
+            </figure>
+            <figure>
+                <img src={gallery10} alt=""/>
+                <figcaption>Nakrętki koronkowe</figcaption>
+            </figure>
+            <figure>
+                <img src={gallery11} alt=""/>
+                <figcaption>Śruby i sworznie wg rysunku</figcaption>
             </figure>
 
         </div>
